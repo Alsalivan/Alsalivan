@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Alsalivan
-- 👀 I’m interested in NLP, and Computer Vision
-- 🌱 I’m currently working on Image Captioning project, in which I am using the MIMIC CXR Dataset and GPT-2 model 
-- 💞️ I’m looking to collaborate on NLP and Computer Vision tasks in medicine
+- 🤗 Hi, I’m @alsalivan. My name is Alexander. 
+- 👨🏼‍🎓 I am Skoltech and MIPT graduate.
+- 👀 I’m interested in Computer Vision in HealfCare.
+- 🧠 I’m currently working on volume reconstruction task in medicine.
+- 💪🏼 I contributed to Image Captioning project, in which I was using the MIMIC-CXR Dataset and GPT-2 model for annotating X-Rays
 - 📫  alexanderslvn@gmail.com
 
 <!---
