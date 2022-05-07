@@ -1,5 +1,4 @@
 - 🤗 Hi, I’m @alsalivan. My name is Alexander. 
-- 👨🏼‍🎓 I am Skoltech and MIPT graduate.
 - 👀 I’m interested in Computer Vision in HealfCare.
 - 📫  alexanderslvn@gmail.com
 
