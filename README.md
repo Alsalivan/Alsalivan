@@ -1,2 +1,2 @@
--  Hi, I’m @alsalivan. My name is Alexander Selivanov. 
+-  Hi, I’m Alexander Selivanov. 
 -  I’m interested in Computer Vision in HealfCare.
